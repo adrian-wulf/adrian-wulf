@@ -159,9 +159,9 @@ def sign(c, theme):
     b.append(f'<path d="M64 24 H1136" stroke="{c["strong"]}" stroke-width="2"/>')
     b.append(f'<rect x="68" y="60" width="16" height="16" fill="{c["hl"]}"/><rect x="64" y="56" width="16" height="16" fill="{c["text"]}"/>')
     b.append(t(MONO, 'WULF, CODE IT.', 96, 75, 18, c['text'], 0.08))
-    label = 'wulf-code.eu  ·  kontakt@wulf-code.it'
+    label = 'wulf-code.eu  ·  kontakt@wulf-code.eu'
     w = MONO.width(label, 18); b.append(t(MONO, label, 1136 - w, 75, 18, c['sec']))
-    return svg(W, H, 'Wulf, code it.', 'Signature: wulf-code.eu, kontakt@wulf-code.it', ''.join(b), c)
+    return svg(W, H, 'Wulf, code it.', 'Signature: wulf-code.eu, kontakt@wulf-code.eu', ''.join(b), c)
 
 
 for theme, c in THEMES.items():

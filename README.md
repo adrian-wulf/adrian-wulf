@@ -24,9 +24,9 @@ TypeScript · Astro · Node.js · PHP · Python · Go · PostgreSQL · MariaDB �
 
 Describe what your team still does by hand, in a few sentences. I reply personally, in Polish, German or English.
 
-[wulf-code.eu](https://wulf-code.eu) · [kontakt@wulf-code.it](mailto:kontakt@wulf-code.it) · [LinkedIn](https://www.linkedin.com/in/adrianwulf/)
+[wulf-code.eu](https://wulf-code.eu) · [kontakt@wulf-code.eu](mailto:kontakt@wulf-code.eu) · [LinkedIn](https://www.linkedin.com/in/adrianwulf/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/sign-dark.svg">
-  <img src="./assets/sign-light.svg" width="100%" alt="Wulf, code it. wulf-code.eu, kontakt@wulf-code.it">
+  <img src="./assets/sign-light.svg" width="100%" alt="Wulf, code it. wulf-code.eu, kontakt@wulf-code.eu">
 </picture>
